@@ -1,0 +1,14 @@
+{
+	"name": "Web Developer Tools",
+	"description": "Extension that brings together tools for developers.",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"icons": {
+		"128": "tool_128.png"
+	},
+
+	"action": {
+		"default_icon": "tool_128.png",
+		"default_popup": "popup.html"
+	}
+}
